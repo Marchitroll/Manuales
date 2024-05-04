@@ -10,7 +10,7 @@ Node.js es un entorno de tiempo de ejecución de JavaScript de código abierto y
 Antes de instalar **Node.js** debemos tener en cuenta lo siguiente:
 
 1. Tener instalado VS Code
-2. Tener privilegios de administrador.
+2. Tener privilegios de administrador (caso contrario haz clic [aquí](/Guias/Guia%20de%20instalacion%20nodeJS%20sin%20permisos%20de%20administrador.md)).
 
 ## 1. Descargar el instalador
 
