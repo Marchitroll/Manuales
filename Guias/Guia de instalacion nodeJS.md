@@ -3,7 +3,6 @@
 
 Node.js es un entorno de tiempo de ejecución de JavaScript de código abierto y multiplataforma que permite ejecutar JavaScript fuera de un navegador web. Utiliza el motor V8 de Google Chrome para ejecutar código JavaScript en el servidor, lo que lo hace rápido y eficiente. Node.js es ampliamente utilizado para la creación de aplicaciones web y de red, ya que permite el desarrollo de aplicaciones de alto rendimiento y escalables. Además, cuenta con un ecosistema de paquetes **npm** (Node Package Manager) que ofrece una amplia variedad de módulos y herramientas para simplificar el desarrollo de aplicaciones.
 
-![Node.js](/imagenes/nodejs.jpg)
 
 ## Antes de instalar
 
