@@ -37,6 +37,8 @@ Ahora podremos ver que el problema está solucionado
 
 ![](/imagenes/politicasEjecucion5.png)
 
+Con esto quedaría solucionado y podríamos continuar creando la [app con react](/Guias/Guia%20de%20creacion%20de%20una%20app%20con%20React.md).
+
 ### Mayor información
 
 Si deseas saber más información acerca de este tema puedes visitar la [página oficial de Microsoft](https://learn.microsoft.com/es-mx/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-7.4)

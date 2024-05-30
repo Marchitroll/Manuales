@@ -19,7 +19,7 @@ Necesitamos instalar de manera global la herramienta **npx**, para ello escribim
 
 ![](/imagenes/errorNPXnoEncontrado2.png)
 
-Con esto quedaría solucionado y podríamos continuar creando [app con react](/Guias/Guia%20de%20creacion%20de%20una%20app%20con%20React.md)
+Con esto quedaría solucionado y podríamos continuar creando la [app con react](/Guias/Guia%20de%20creacion%20de%20una%20app%20con%20React.md).
 
 ### Mayor información
 
